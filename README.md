@@ -1,6 +1,6 @@
 # HDCNS-Composites
 
-Hemp-derived Carbon Nanosheets (aka "Hemp Graphene") integrated Into Various Matrixes for Composite Materials.
+Hemp-derived Carbon Nanosheets integrated Into Various Matrixes for Composite Materials
 
 ## Description
 
@@ -59,3 +59,4 @@ Future work will focus on:
 
 For more detailed information, please refer to the following references:
 - [Theoretical Integration and Formulation of HDCNS Composites and Diamond Composites](https://github.com/marielandryceo/hdcns-composites/blob/main/Theoretical_Integration_and_Formulation_of_HDCNS_Composites_and_Diamond_Composites__Original_Work_by_Marie_Seshat_Landry__with_AI_Assistance.pdf)
+- [Reference: Hemp-Derived Carbon Nanosheets](https://pubs.acs.org/doi/10.1021/nn400731g) - Note: This research does not include any composites.
