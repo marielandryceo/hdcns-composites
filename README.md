@@ -1,4 +1,4 @@
-# hdcns-composites
+# HDCNS-Composites
 
 Hemp-derived Carbon Nanosheets (aka "Hemp Graphene") integrated Into Various Matrixes for Composite Materials.
 
