@@ -1,6 +1,6 @@
 # HDCNS-Composites
 
-Hemp-derived Carbon Nanosheets integrated Into Various Matrixes for Composite Materials
+Hemp-derived Carbon Nanosheets integrated Into Various Matrixes for Composite Materials [![DOI](https://zenodo.org/badge/954592062.svg)](https://doi.org/10.5281/zenodo.15089376)
 
 ## Description
 
