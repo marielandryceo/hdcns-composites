@@ -1,0 +1,101 @@
+Known properties of hemp fiber, specifically when considered as a reinforcement in composite materials. Unlike hemp oil (modified) or lignin, which can act as matrix components, hemp fiber's primary role in composites is to provide mechanical strength and stiffness.
+
+Again, properties can vary significantly based on hemp variety, growing conditions, part of the stalk used (bast fibers are strongest), retting process (how fibers are separated – dew, water, enzyme, chemical), and processing (decortication, cleaning, alignment).
+
+Here are the key properties relevant to its use as a composite reinforcement:
+
+1. Source & Sustainability:
+
+Bio-based & Renewable: Directly sourced from the hemp plant stem.
+
+Carbon Sequestration: Hemp plants absorb significant CO₂ during growth.
+
+Potential Biodegradability: The fiber itself is biodegradable, although the composite's overall biodegradability depends heavily on the matrix.
+
+Lower Energy Production: Requires significantly less energy to produce compared to glass or carbon fibers.
+
+Agricultural Crop: Utilizes agricultural land; farming practices impact overall sustainability.
+
+2. Structure & Composition:
+
+Lignocellulosic Nature: Composed primarily of:
+
+Cellulose (~60-75%): The main structural component, consisting of crystalline regions (providing stiffness/strength) and amorphous regions, arranged in microfibrils. High degree of polymerization.
+
+Hemicellulose (~15-25%): Acts as a binder between cellulose microfibrils, more branched and amorphous, highly hydrophilic.
+
+Lignin (~2-10%): Acts as a binder/matrix encasing cellulose and hemicellulose, providing rigidity and compressive strength to the plant stem. More hydrophobic than cellulose/hemicellulose.
+
+Pectins, Waxes, Ash: Minor components affecting surface properties and interactions.
+
+Hierarchical Structure: Elementary fibers (diameter ~10-30 µm) are bundled together by lignin/pectin into larger "technical fibers" (diameter ~50-500 µm or larger). Composite properties depend on whether elementary fibers are well-separated and impregnated.
+
+Semi-Crystalline: Cellulose provides significant crystallinity. Microfibril Angle (MFA) - the angle of the cellulose microfibrils relative to the fiber axis - is relatively low in hemp, contributing to its stiffness.
+
+3. Mechanical Properties:
+
+Good Specific Stiffness & Strength: Hemp fiber exhibits excellent specific Young's Modulus and specific Tensile Strength (property divided by density). It is often comparable to or even better than E-glass fiber in specific stiffness, making it attractive for lightweight applications.
+
+Moderate Absolute Stiffness & Strength:
+
+Young's Modulus: Typically ranges from 20 to 70 GPa, sometimes reported higher for highly processed elementary fibers. This is lower than E-glass (~70-75 GPa) and much lower than carbon fiber (200+ GPa).
+
+Tensile Strength: Typically ranges from 500 to 1000 MPa, sometimes higher for elementary fibers. Again, generally lower than E-glass (~1500-2500 MPa) and carbon fiber (3000+ MPa).
+
+Variability: Mechanical properties are highly sensitive to fiber diameter, defects (kink bands), plant source, processing methods, retting degree, and moisture content. This variability is a major challenge compared to synthetic fibers.
+
+Low Elongation at Break: Typically around 1-4%, making composites potentially brittle if fiber-dominated.
+
+4. Physical Properties:
+
+Low Density: Around 1.4 - 1.5 g/cm³, significantly lower than E-glass (~2.5-2.6 g/cm³) and slightly lower than typical carbon fiber (~1.7-1.8 g/cm³). This is key to its excellent specific properties.
+
+Hydrophilic: Due to the abundance of hydroxyl groups (-OH) in cellulose and hemicellulose, hemp fiber readily absorbs moisture from the environment (typically 8-12% moisture content at standard conditions). This leads to:
+
+Swelling and dimensional changes.
+
+Changes in mechanical properties (often reduced stiffness/strength when wet).
+
+Poor compatibility/adhesion with hydrophobic polymer matrices (like PP, PE).
+
+Potential for degradation via hydrolysis or microbial attack in humid conditions.
+
+Hollow Lumen: Technical fibers often have a central cavity (lumen), which affects density and can influence resin impregnation and potentially provide some acoustic/thermal insulation.
+
+5. Thermal Properties:
+
+Limited Thermal Stability: Cellulose begins to degrade around 200-250°C, with hemicellulose degrading even earlier. Lignin degrades over a broader, higher range. This limits the processing temperature for thermoplastic composites, typically keeping it below ~200°C to avoid significant fiber degradation, loss of strength, and volatile emissions. This makes processing with high-temperature thermoplastics (Nylon, PC, PEEK) very challenging or impossible without degradation.
+
+Low Thermal Conductivity: Acts as a thermal insulator compared to synthetic fibers like carbon or glass.
+
+Low Coefficient of Thermal Expansion (CTE): CTE along the fiber axis is low, but transverse CTE is higher and affected by moisture.
+
+6. Interfacial Properties (Crucial for Composites):
+
+Poor Adhesion to Hydrophobic Matrices: The polar, hydrophilic surface of hemp fiber creates a weak interface with non-polar, hydrophobic matrices like polypropylene (PP) and polyethylene (PE), leading to poor stress transfer and suboptimal composite performance.
+
+Better Adhesion to Polar Matrices: Generally shows better (but not always perfect) adhesion to polar matrices like epoxies, polyesters, polylactic acid (PLA), and polyurethanes (PU) due to potential for hydrogen bonding.
+
+Surface Treatments Essential: Chemical or physical surface treatments are often required to improve interfacial adhesion, especially with hydrophobic matrices. Common treatments include:
+
+Alkali treatment (mercerization): Removes hemicellulose/lignin, increases surface roughness and cellulose crystallinity.
+
+Silane treatment: Forms chemical bridges between fiber hydroxyls and the matrix.
+
+Acetylation: Makes fiber surface more hydrophobic.
+
+Use of compatibilizers/coupling agents (e.g., Maleic Anhydride grafted Polypropylene - MAPP for PP composites).
+
+7. Processing Considerations for Composites:
+
+Moisture Removal: Fibers must be thoroughly dried before melt processing with thermoplastics to prevent void formation and hydrolytic degradation of the matrix/fiber.
+
+Dispersion: Achieving uniform dispersion of individual fibers (especially short fibers) in a matrix without excessive clumping can be difficult.
+
+Fiber Damage: Hemp fibers can be damaged (broken, shortened) during high-shear processing like extrusion or injection molding, reducing the reinforcement effect.
+
+Temperature Limitation: Processing temperature must be kept below the fiber degradation point (~200°C).
+
+In Summary:
+
+Hemp fiber is a promising bio-based reinforcement offering low density, high specific mechanical properties, sustainability benefits (renewable, CO₂ uptake, low production energy), and good insulation. However, its use faces challenges related to its inherent variability, hydrophilic nature (leading to moisture absorption and poor bonding with non-polar matrices), and limited thermal stability, which restricts processing options and necessitates careful drying and often surface treatments for optimal composite performance.
